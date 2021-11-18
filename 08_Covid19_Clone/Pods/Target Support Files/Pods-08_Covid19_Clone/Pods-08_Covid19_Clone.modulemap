@@ -1,0 +1,6 @@
+framework module Pods_08_Covid19_Clone {
+  umbrella header "Pods-08_Covid19_Clone-umbrella.h"
+
+  export *
+  module * { export * }
+}
